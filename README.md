@@ -76,6 +76,7 @@ This project involved the following tasks:
 
 <img width="978" height="318" alt="Screenshot 2026-08-25 164055" src="https://github.com/user-attachments/assets/d7369859-d089-446b-86ee-48fbaa9aee1f" />
 
+
 - However, revenue per customer has been declining year-on-year:
 
 <img width="272" height="138" alt="Screenshot 2026-08-25 163730" src="https://github.com/user-attachments/assets/fb3053ea-c703-4f79-befc-b636e55dc12e" />
