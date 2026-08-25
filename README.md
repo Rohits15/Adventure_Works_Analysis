@@ -68,18 +68,18 @@ This project involved the following tasks:
 
 - Understandably, tires and tubes are the most ordered product type, while cycling shorts are the most returned product type. After mountain bike fenders, sports helmets top the list of revenue-generating products, despite having relatively high return rates:
 
-<img src="./images/screenshots/top_revenue_products.png">
+<img width="682" height="385" alt="image" src="https://github.com/user-attachments/assets/976ff440-7bbe-4dd7-9d53-bf7e56689814" />
 
 - The most profitable product categories are clothing and accessories.
 
 - There is a step change (on the order of 200 customers per week) in total weekly customers beginning 02/08/2021.
 
-<img src="./images/screenshots/total_weekly_customers.png">
+<img width="978" height="318" alt="Screenshot 2026-08-25 164055" src="https://github.com/user-attachments/assets/d7369859-d089-446b-86ee-48fbaa9aee1f" />
 
 - However, revenue per customer has been declining year-on-year:
 
 <img width="272" height="138" alt="Screenshot 2026-08-25 163730" src="https://github.com/user-attachments/assets/fb3053ea-c703-4f79-befc-b636e55dc12e" />
->
+
 
 - While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
 
