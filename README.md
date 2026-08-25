@@ -76,11 +76,9 @@ This project involved the following tasks:
 
 <img width="978" height="318" alt="Screenshot 2026-08-25 164055" src="https://github.com/user-attachments/assets/d7369859-d089-446b-86ee-48fbaa9aee1f" />
 
-
 - However, revenue per customer has been declining year-on-year:
 
 <img width="1231" height="288" alt="Screenshot 2026-08-25 164608" src="https://github.com/user-attachments/assets/723fa307-c33c-4081-930d-66f87d83ed7e" />
-
 
 - While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
 
