@@ -74,6 +74,7 @@ This project involved the following tasks:
 
 - There is a step change (on the order of 200 customers per week) in total weekly customers beginning 02/08/2021.
 
+
 <img width="978" height="318" alt="Screenshot 2026-08-25 164055" src="https://github.com/user-attachments/assets/d7369859-d089-446b-86ee-48fbaa9aee1f" />
 
 
