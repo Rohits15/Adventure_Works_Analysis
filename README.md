@@ -80,7 +80,6 @@ This project involved the following tasks:
 
 <img width="272" height="138" alt="Screenshot 2026-08-25 163730" src="https://github.com/user-attachments/assets/fb3053ea-c703-4f79-befc-b636e55dc12e" />
 
-
 - While the United States is the largest market with 8,700 orders and $7.94 million in total revenue, The Australian market has the largest revenue per customer at $2,131.
 
 How to Download and View the Power BI Project Locally
