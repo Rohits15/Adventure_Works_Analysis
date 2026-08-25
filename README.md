@@ -1,4 +1,4 @@
-# Powering AdventureWorks: Intelligent Analytics in Action
+# Powering AdventureWorks
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/29bd54ad-4459-4ed3-83c7-6286451cec6b" width="200" />
